@@ -2,7 +2,7 @@
 Unpaired image-to-image translation methods aim at learning a mapping of images from a source domain to a target domain.  
 Recently, these methods proved to be very useful in biological applications to display subtle phenotypic cell variations otherwise invisible to the human eye.
 
-In this project , I've translated real photos into Monet-style art using Cycle-Gan architecture.
+In this project , I've translated real photos into Monet-style art and vice-versa using Cycle-Gan architecture.
 ### Dataset from:
 https://www.kaggle.com/competitions/gan-getting-started/data  
 Monet images : 1367  
