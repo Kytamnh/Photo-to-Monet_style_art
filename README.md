@@ -1,5 +1,5 @@
 # Unpaired-Image-to-Image-Translation
-Unpaired image-to-image translation methods aim at learning a mapping of images from a source domain to a target domain.  
+Unpaired image-to-image translation methods aim at learning a mapping of images from a source domain to a target domain without the need of paired images from the two domains to train on.  
 Recently, these methods proved to be very useful in biological applications to display subtle phenotypic cell variations otherwise invisible to the human eye.
 
 In this project , I've translated real photos into Monet-style art and vice-versa using Cycle-Gan architecture.
