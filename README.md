@@ -10,7 +10,7 @@ Photo images : 7038
 ## Cycle-Gan Architecture  
 Paper: https://arxiv.org/abs/1703.10593  
 ![Screenshot 2023-08-14 0953462](https://github.com/Kytamnh/Unpaired-Image-to-Image-Translation/assets/127836327/59381f28-4a33-4de8-950a-8c95f700acee)  
-We have generator networks and discriminator networks playing against each other. The generator tries to produce samples from the desired distribution and the discriminator tries to predict if the sample is from the actual distribution or produced by the generator. The generator and discriminator are trained jointly. The effect this has is that eventually the generator learns to approximate the underlying distribution completely and the discriminator is left guessing randomly.
+We have generator networks and discriminator networks working against each other. The generator tries to produce samples from the desired distribution and the discriminator tries to predict if the sample is from the actual distribution or produced by the generator. The generator and discriminator are trained jointly. The effect this has is that eventually the generator learns to approximate the underlying distribution completely and the discriminator is left guessing randomly.
 ## Generator
 ![Screenshot 2023-08-14 1009381](https://github.com/Kytamnh/Unpaired-Image-to-Image-Translation/assets/127836327/657ecea7-d1be-4881-9467-332a675aa480)  
 1. Generators must make the discriminators approve all the generated images, so as to fool them.
