@@ -5,6 +5,7 @@ Recently, these methods proved to be very useful in biological applications to d
 In this project , I've translated real photos into Monet-style art and vice-versa using Cycle-Gan architecture.
 ### Dataset from:
 https://www.kaggle.com/competitions/gan-getting-started/data  
+https://www.kaggle.com/datasets/dimitreoliveira/monet-tfrecords-256x256
 Monet images : 1367  
 Photo images : 7038
 ## Cycle-Gan Architecture  
